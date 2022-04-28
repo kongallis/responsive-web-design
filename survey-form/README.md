@@ -1,4 +1,4 @@
-LIVE on Codepen: https://codepen.io/kongallis/pen/YzYbbwL
+LIVE on Codepen: https://codepen.io/kongallis/pen/BaJgPNy
 
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/VPaoNP.
 
